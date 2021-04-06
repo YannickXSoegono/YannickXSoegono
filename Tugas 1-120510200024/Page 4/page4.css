@@ -1,0 +1,9 @@
+body {
+    background-color: #de0500;
+    font-family: monospace;
+    color: #eeebe3;
+  }
+#main {
+    max-width: 600px;
+    margin: 0 auto; 
+  }

@@ -1,0 +1,16 @@
+body{
+    background-color: #eeebe3;
+    font-family: monospace;
+    color: #ffa800;
+}
+nav {
+    float: left;
+    width: 200px;
+    border: #de0500;
+    border-style: solid;
+  }
+section {
+    margin-left: 206px;
+    border: #131c3d;
+    border-style: dashed;
+  }

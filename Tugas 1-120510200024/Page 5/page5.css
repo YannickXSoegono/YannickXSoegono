@@ -1,0 +1,17 @@
+.simple {
+    width: 500px;
+    margin: 20px auto;
+    border: solid;
+  }
+  
+  .fancy {
+    width: 500px;
+    margin: 20px auto;
+    padding: 50px;
+    border-width: 10px;
+    border: solid;
+  }
+body{
+    background-color: #EEEBE3;
+    color: #131c3d;
+}

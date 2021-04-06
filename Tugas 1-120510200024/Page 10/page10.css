@@ -1,0 +1,32 @@
+body{
+    background-color: #ffa800;
+    font-family: monospace;
+}
+.box {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: #131c3d;
+    border-style: dashed;
+} 
+.s1{
+    width: 400px;
+    height: 200px;
+    border: #de0500;
+    border-style: double;
+}
+
+.box1 {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: #de0500;
+    border-style: dashed;
+  }
+  .after-box {
+    clear: left;
+    border: #131c3d;
+    border-style: double;
+  }

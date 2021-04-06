@@ -1,0 +1,34 @@
+body{
+    font-family: monospace;
+    background-color: #ffa800;
+    color: #131c3d;
+}
+article img {
+    float: right;
+    width: 50%;
+    max-width: 100px;
+    max-height: 100px;
+  }
+article{
+  border: #131c3d;
+  border-style: dashed;
+}
+
+.container{
+  border: #131c3d;
+  border-style: double;
+  border-width: 10px;
+}
+
+nav {
+    float: left;
+    width: 25%;
+    border: #de0500;
+    border-style: solid;
+  }
+  section {
+    margin-left: 25%;
+    border: #de0500;
+    border-style: solid;
+    height: 55px;
+  }

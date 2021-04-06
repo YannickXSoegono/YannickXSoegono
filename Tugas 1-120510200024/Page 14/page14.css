@@ -1,0 +1,23 @@
+body{
+    background-color: #de0500;
+    color: #ffa800;
+    font-family: monospace;
+}
+@media (min-width:600px) {
+    nav {
+      float: left;
+      width: 25%;
+      border: #131c3d;
+      border-style: dashed;
+    }
+    section {
+      margin-left: 25%;
+      border: #eeebe3;
+      border-style:solid;
+    }
+  }
+  @media (max-width:599px) {
+    nav li {
+      display: inline;
+    }
+  }

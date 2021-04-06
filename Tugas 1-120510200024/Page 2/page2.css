@@ -1,0 +1,23 @@
+body{
+    font-family: monospace;
+    color: #131c3d;
+    width: 500px;
+    background-color: #ffa800;
+}
+h1{
+    font-size: 32px;
+}
+p{
+    font-size: 16px;
+}
+div{
+    border-width: 5px;
+    border-style: dashed;
+    font-size: 15px;
+}
+span{
+    font-weight: bold;
+}
+span2{
+    visibility: hidden;
+}

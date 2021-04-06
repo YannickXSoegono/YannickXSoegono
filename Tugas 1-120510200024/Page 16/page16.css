@@ -1,0 +1,20 @@
+body{
+  background-color: #eeebe3;
+  color: #131c3d;
+  font-family: monospace;
+}
+nav {
+  display: inline-block;
+  vertical-align: top;
+  width: 25%;
+  float: left;
+}
+.column {
+  display: inline-block;
+  vertical-align: top;
+  width: 75%;
+}
+.cover{
+  border: #ffa800;
+  border-style: solid;
+}
